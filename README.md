@@ -18,7 +18,7 @@ The system supports **user authentication, expense categorization, reminders, bu
 
 ## 🛠 Tech Stack  
 - **Backend**: Spring Boot (Java)  
-- **Frontend**: Thymeleaf, HTML, CSS  
+- **Frontend**: Thymeleaf, HTML, CSS, JS
 - **Security**: Spring Security (Authentication & Authorization)  
 - **Database**: MySQL *(configurable in `application.properties`)*  
 - **Build Tool**: Gradle  
