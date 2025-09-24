@@ -46,6 +46,3 @@ Login: /auth/login
 Signup: /auth/signup
 User Dashboard: /dashboard
 Admin Dashboard: /dashboard/admin
-
-Admin →  username: admin | password: admin123  
-User  →  username: user  | password: user123
