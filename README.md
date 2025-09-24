@@ -20,7 +20,7 @@ The system supports **user authentication, expense categorization, reminders, bu
 - **Backend**: Spring Boot (Java)  
 - **Frontend**: Thymeleaf, HTML, CSS  
 - **Security**: Spring Security (Authentication & Authorization)  
-- **Database**: H2 / MySQL / PostgreSQL *(configurable in `application.properties`)*  
+- **Database**: MySQL *(configurable in `application.properties`)*  
 - **Build Tool**: Gradle  
 - **IDE**: Eclipse / IntelliJ IDEA  
 
