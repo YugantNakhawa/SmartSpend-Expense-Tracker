@@ -1,7 +1,7 @@
 # 💰 Expense Tracker  
 
 An **Expense Tracker Web Application** built with **Spring Boot**, **Thymeleaf**, and **Gradle**, designed to help users manage their personal finances efficiently.  
-The system supports **user authentication, expense categorization, reminders, budget alerts, admin dashboard, and AI-powered insights**.  
+The system supports **user authentication, expense categorization, reminders, budget alerts, admin dashboard, and AI-powered insights**.
 
 ---
 
