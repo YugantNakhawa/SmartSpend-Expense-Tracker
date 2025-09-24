@@ -39,7 +39,7 @@ cd ExpenseTracker
 ./gradlew build
 
 The app will start on:
-👉 http://localhost:8080
+👉 http://localhost:6788
 
 4️⃣ Access Endpoints
 Login: /auth/login
